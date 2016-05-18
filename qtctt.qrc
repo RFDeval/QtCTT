@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/QtCTT">
+        <file>image/play.png</file>
+    </qresource>
+</RCC>
